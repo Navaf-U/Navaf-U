@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back-End Development**
 
-- 💬 Ask me about **JavaScript, React , Redux ,Node.js , Express.js , MongoDB**
+- 💬 Ask me about   **JavaScript, React , Redux ,Node.js , Express.js , MongoDB**
 
 - 📫 How to reach me **navafsoft@gmail.com**
 
