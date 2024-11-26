@@ -1,7 +1,11 @@
 <h1 align="center">Hi , I'm Navaf</h1>
 <h3 align="center">A dedicated and skilled Full-Stack Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navaf-u" alt="navaf-u" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=navaf-u&title=Commit" alt="Commit Trophy" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on **a scalable e-commerce platform to enhance user experience and performance.**
 
