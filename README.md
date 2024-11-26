@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **a scalable e-commerce platform to enhance user experience and performance.**
 
-- 🌱 I’m currently learning **Back-End**
+- 🌱 I’m currently learning **BackEnd Development**
 
-- 💬 Ask me about **Html,CSS,JavaScript,React**
+- 💬 Ask me about **React,Redux,Javascript,Nodejs,Express,MongoDB,TailwindCSS**
 
 - 📫 How to reach me **navafsoft@gmail.com**
 
