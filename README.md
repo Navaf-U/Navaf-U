@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a scalable e-commerce platform to enhance user experience and performance.**
 
-- 🌱 I’m currently learning **BackEnd Development**
+- 🌱 I’m currently learning **TypeScript and Next.js**
 
 - 💬 Ask me about **React,Redux,Javascript,Nodejs,Express,MongoDB,TailwindCSS**
 
