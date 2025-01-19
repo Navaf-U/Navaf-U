@@ -9,9 +9,9 @@
 ###
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Navaf-U&theme=dark_lover&column=3&row=1&margin-w=6" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Navaf-U&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Navaf-U&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=Navaf-U&theme=dark_lover&column=1&row=1" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navaf-U&theme=github-dark" height="150" alt="activity-graph graph"  />
 </div>
 
