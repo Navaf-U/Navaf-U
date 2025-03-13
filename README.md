@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 # 💫 About Me:
 -🔭 Building scalable and high-performance web applications using the **MERN stack**<br>-🌱 I’m currently learning **TypeScript and Next.js**<br>-💬 Ask me about **React,Javascript,Typescript,Redux,Next.js,Node.js,Express,MongoDB**<br>- 📫 How to reach me **navafsoft@gmail.com** <br>- 🎮 Beat my luck-based game https://luck-game-mi.vercel.app/
 
