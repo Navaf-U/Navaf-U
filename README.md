@@ -1,5 +1,5 @@
 # 💫 About Me:
--🔭 Building scalable and high-performance web applications using the **MERN stack**<br>-🌱 I’m currently learning **TypeScript and Next.js**<br>-💬 Ask me about **React,Javascript,Typescript,Redux,Next.js,Node.js,Express,MongoDB**<br>- 📫 How to reach me **navafsoft@gmail.com** <br>- 🎮 Beat my luck-based game https://luck-game-mi.vercel.app/
+-🔭 Building scalable and high-performance web applications using the **MERN stack**<br>-🌱 I’m currently learning **TypeScript and Next.js**<br>-💬 Ask me about  **React,Javascript,Typescript,Redux,Next.js,Node.js,Express,MongoDB**<br>- 📫 How to reach me **navafsoft@gmail.com** <br>- 🎮 Beat my luck-based game https://luck-game-mi.vercel.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.nxvaf_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navaf-u) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/navaf_u_) 
