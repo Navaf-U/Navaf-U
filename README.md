@@ -1,6 +1,5 @@
 # 💫 About Me:
 -🔭 Building scalable and high-performance web applications using the **MERN stack**<br>-🌱 I’m currently learning **MySQL and Prisma**<br>-💬 Ask me about  **React,Javascript,Typescript,Redux,Next.js,Node.js,Express,MongoDB**
-
 <br>- 📫 How to reach me **navafsoft@gmail.com** 
 <br>- 🎮 Beat my luck-based game https://luck-game-mi.vercel.app/
 
